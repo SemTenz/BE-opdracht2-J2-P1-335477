@@ -1,7 +1,7 @@
 body {
     font-family: Verdana;
     font-size: 23px;
-    background-color: rgb(179, 69, 0);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -35,9 +35,7 @@ th, td {
     color: rgb(255, 255, 255);
     text-decoration: none;
     padding: .9rem;
-    box-shadow: .2rem .2rem 0 rgba(0, 0, 0, 0.493);
     margin: .1rem;
-    transition: box-shadow cubic-bezier(1, 0.01, 0, 0.92) .1s;
 }
 
 .back{
@@ -48,10 +46,6 @@ th, td {
 
 .message{
     background-color: rgb(255, 106, 0);
-}
-
-.button:hover{
-    box-shadow: .2rem .2rem 0 rgba(163, 247, 7, 0.6);
 }
 
 a{
