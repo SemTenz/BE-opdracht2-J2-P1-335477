@@ -6,7 +6,7 @@ body {
     justify-content: center;
     flex-direction: row;
     align-items: center;
-    color: rgba(35, 3, 100, 0.632);
+    color: rgba(100, 62, 177, 0.632);
     width: 100%;
     height: 100vh;
 }
@@ -26,12 +26,12 @@ table {
 }
 
 th, td {
-    border: 3px solid orange;
+    border: 3px solid  rgb(77, 155, 219);
     padding:.2em;
 }
 
 .button{
-    background-color: rgb(216, 163, 72);
+    background-color: rgb(77, 155, 219);
     color: rgb(255, 255, 255);
     text-decoration: none;
     padding: .9rem;
@@ -40,15 +40,15 @@ th, td {
 
 
 .message{
-    background-color: rgb(255, 106, 0);
+    background-color: rgb(77, 155, 219);
 }
 
 a{
-    color: #e18608;
+    color:  rgb(77, 155, 219);
 }
 
 a:hover{
-    color: #ffe416;
+    color: rgb(142, 22, 255);
 }
 
 
