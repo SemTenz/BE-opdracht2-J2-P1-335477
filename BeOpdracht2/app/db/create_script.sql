@@ -7,13 +7,13 @@
 -- **********************************************************************************/
 
 -- Check if the database exists
-DROP DATABASE IF EXISTS `Mvc-2209a-P4`;
+DROP DATABASE IF EXISTS `Be-opdracht-02`;
 
 -- Create a new Database
-CREATE DATABASE IF NOT EXISTS `Mvc-2209a-P4`;
+CREATE DATABASE IF NOT EXISTS `Be-opdracht-02`;
 
 -- Use database Mvc-2209a-P4
-Use `Mvc-2209a-P4`;
+Use `Be-opdracht-02`;
 
 
 -- Step: 02
